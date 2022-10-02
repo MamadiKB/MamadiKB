@@ -13,11 +13,12 @@
 </a>
 </div>
 
-## 🙋‍♂️ About
-
 <h1 align="center" >
     Hi ! I am Mamadi KABA <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
+
+## 🙋‍♂️ About
+
 <p align="center">
     I am a web developer specialized in front-end and React.js, also enjoy working on back-end.<br>
     I like to learn by working in a team, discover new technologies and create good user experience through the implementation of good practices.
